@@ -1,0 +1,16 @@
+i) Front end development
+    a)html
+        html is a skeleton of a webpage.
+    b)css
+        css is used as presentation of a webpage.
+    c)javascript
+        javascript makes our website functional.
+
+ii) Backend end development
+    a)PHP
+    b)Python
+
+iii)Full Stack development
+
+install vs code 32/64bit
+sublime text 3 32/64bit
