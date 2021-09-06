@@ -1,0 +1,35 @@
+div {
+  /* height: 100px;
+  width: 300px;
+  background: yellow; */
+
+  /* 1 */
+  /* padding-left: 35px;
+  padding-top: 30px;
+  padding-right: 150px;
+  padding-bottom: 100px; */
+
+  /* clockwise */
+  /* padding: 5px 150px 78px 0px; */
+
+  /* 2 */
+
+  /* val 1 for top and bottom */
+  /* val2 for right and left */
+
+  /* padding: 50px 135px; */
+
+  /* 3 */
+  /* allocate same values to all sides */
+  /* padding: 150px ; */
+}
+
+.margin {
+  height: 150px;
+  width: 350px;
+  background: gray;
+  margin-top: 200px;
+  margin-left: 50px;
+  padding: 5px;
+  margin-bottom: 20px;
+}

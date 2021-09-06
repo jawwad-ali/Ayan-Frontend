@@ -1,0 +1,11 @@
+.topDiv {
+  height: 100px;
+  width: 100%;
+  background-color: blue;
+}
+
+aside {
+    height: 500px;
+    width: 15%;
+    background-color: yellow;
+}
