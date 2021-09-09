@@ -1,0 +1,30 @@
+p {
+  font-weight: bold;
+  font-size: 25px;
+  font-family: "Allison", cursive;
+}
+
+.div {
+  width: 50%;
+  height: 300px;
+  background: #000;
+}
+
+.align {
+  color: white;
+  font-family: "Roboto";
+  padding: 20px;
+  /* text-align: right; */
+  font-size: 18px;
+  text-align: center;
+}
+
+.fa-mortar-pestle {
+  color: orange;
+  font-size: 50px;
+}
+
+.fa-facebook {
+  font-size: 50px;
+  color: blue;
+}
