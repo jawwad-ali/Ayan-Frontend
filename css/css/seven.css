@@ -1,0 +1,47 @@
+/* .topDiv {
+  height: 500px;
+  width: 500px;
+  background: #000;
+  color: white;
+
+    when applying positions to parent elements.
+  position: relative;
+  top: 25px;
+  left: 55px;
+}
+
+.innerDiv {
+  height: 250px;
+  width: 250px;
+  background: blue;
+
+ when applying  postion to child elem 
+  position: absolute;
+  top: 20px;
+} */
+
+.d1 {
+  height: 100px;
+  width: 100px;
+  background: #000;
+  position: absolute;
+  z-index: 3;
+}
+.d2 {
+  height: 100px;
+  width: 100px;
+  background: orange;
+  position: absolute;
+  top: 120px;
+  left: 50px;
+  z-index: 4;
+}
+.d3 {
+  height: 100px;
+  width: 100px;
+  background: blue;
+  position: absolute;
+  z-index: 5;
+  top: 175px;
+  left: 105px;
+}
