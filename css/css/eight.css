@@ -1,0 +1,16 @@
+div {
+  height: 150px;
+  width: 300px;
+  background: #000;
+  color: white;
+  text-align: center;
+}
+
+/* media query */
+
+@media only screen and (max-width: 600px) {
+  div {
+    background: yellow !important;
+    color: black;
+  }
+}
