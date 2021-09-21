@@ -1,0 +1,68 @@
+div {
+  height: 200px;
+  width: 200px;
+  background: red;
+  text-align: center;
+}
+
+@media only screen and (max-width: 600px) {
+  div {
+    background: orange;
+    color: black;
+    margin: 0 auto;
+  }
+}
+
+@media only screen and (min-width: 768px) {
+  div {
+    background: black;
+    color: white;
+    margin: 0 auto;
+  }
+}
+
+@media only screen and (min-width: 1024px) {
+  div {
+    color: yellow;
+    background: gray;
+  }
+}
+
+.d1 {
+  height: 100px;
+  width: 100px;
+  background: red;
+  display: inline-block;
+}
+
+.d2 {
+  height: 100px;
+  width: 100px;
+  background: black;
+  display: inline-block;
+}
+
+.d3 {
+  height: 100px;
+  width: 100px;
+  background: purple;
+  display: inline-block;
+}
+
+.d4 {
+  height: 100px;
+  width: 100px;
+  background: orange;
+  display: inline-block;
+}
+
+.d5 {
+  height: 100px;
+  width: 100px;
+  background: silver;
+  display: inline-block;
+}
+
+a {
+  display: block;
+}
