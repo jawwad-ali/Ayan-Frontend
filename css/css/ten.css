@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.container {
+  border: 3px solid black;
+  margin: 20px;
+  padding: 20px;
+
+  display: flex;
+
+  /* justify-content: center; */
+  /* justify-content: flex-start; */
+  /* justify-content: flex-end; */
+
+  /* justify-content: space-between; */
+  justify-content: space-around;
+
+  /* flex-direction: row-reverse; */
+  /* flex-direction: column-reverse; */
+}
+
+.d1 {
+  height: 100px;
+  width: 100px;
+  background: black;
+}
+.d2 {
+  height: 100px;
+  width: 100px;
+  background: pink;
+}
+.d3 {
+  height: 100px;
+  width: 100px;
+  background: red;
+}
+.d4 {
+  height: 100px;
+  width: 100px;
+  background: orange;
+}
